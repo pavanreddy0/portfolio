@@ -35,7 +35,7 @@ const greeting = {
 const socialMediaLinks = {
   github: "https://github.com/Pavanreddy0",
   linkedin: "https://www.linkedin.com/in/pavanreddy0",
-  gmail: "pavanapanuganti0@gmail.com",
+  gmail: "ppanuganti2022@fau.edu",
   // gitlab: "https://gitlab.com/saadpasta",
   // facebook: "https://www.facebook.com/saad.pasta7",
   // medium: "https://medium.com/@saadpasta",
@@ -391,7 +391,7 @@ const contactInfo = {
   subtitle:
     "Discuss a project or just want to say hi? My Inbox is open for all.",
   number: "+15619621239",
-  email_address: "pavanpanuganti0@gmail.com"
+  email_address: "ppanuganti2022@fau.edu"
 };
 
 // Twitter Section
