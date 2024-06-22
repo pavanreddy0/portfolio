@@ -133,7 +133,6 @@ const educationInfo = {
       desc: "Took various courses on Data Science, NLP, Information Retrieval, etc.",
       descBullets: [
         "Developed a couple of webisted for University",
-        "Lorem ipsum dolor sit amet, consectetur adipiscing elit"
       ]
     },
     {
@@ -272,7 +271,7 @@ const achievementSection = {
     {
       title: "Infosys Certified Software Programmer",
       subtitle:
-        "First Pakistani to be selected as Google Code-in Finalist from 4000 students from 77 different countries.",
+        "Achieved Infosys Software Programmer Certification through Infytq",
       image: require("./assets/images/infytq.png"),
       imageAlt: "Infytq Logo",
       footerLink: [
