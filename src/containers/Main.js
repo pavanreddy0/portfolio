@@ -1,4 +1,5 @@
 import React, {useEffect, useState} from "react";
+import ReactGA from "react-ga";
 import Header from "../components/header/Header";
 import Greeting from "./greeting/Greeting";
 import Skills from "./skills/Skills";
@@ -28,6 +29,7 @@ const Main = () => {
     useState(true);
 
   useEffect(() => {
+    ReactGA.pageview(window.location.pathname);
     if (splashScreen.enabled) {
       const splashTimer = setTimeout(
         () => setIsShowingSplashAnimation(false),
