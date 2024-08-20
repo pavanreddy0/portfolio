@@ -26,7 +26,7 @@ const greeting = {
     "A passionate Full Stack Software Developer 🚀 having an experience of building Web with JavaScript / Reactjs / Nodejs / React Native and some other cool libraries and frameworks."
   ),
   resumeLink:
-    "https://drive.google.com/file/d/1-kDKJ8s-uT_67lv1oXyxag2JtwP80qaN/view?usp=sharing", // Set to empty to hide the button
+    "https://drive.google.com/file/d/1oOTheHQyrujPr8BIeFgjKay-BxO8J3eq/view?usp=sharing", // Set to empty to hide the button
   displayGreeting: true // Set false to hide this section, defaults to true
 };
 
@@ -131,16 +131,14 @@ const educationInfo = {
       subHeader: "Master of Science in Computer Science",
       duration: "August 2022 - May 2024",
       desc: "Took various courses on Data Science, NLP, Information Retrieval, etc.",
-      descBullets: [
-        "Developed a couple of webisted for University",
-      ]
+      descBullets: ["Developed a couple of webisted for University"]
     },
     {
       schoolName: "Jawaharlal Nehru Technological University, Hyderabad",
       logo: require("./assets/images/JNTU_Hyderabad_logo.png"),
       subHeader: "Bachelor of Science in Computer Science",
       duration: "August 2016 - September 2020",
-      desc: "Took courses about C, C++, Python Programming, Software Engineering, Web Security, Operating Systems, ...",
+      desc: "Took courses about C, C++, Python Programming, Software Engineering, Web Security, Operating Systems, ..."
       // descBullets: ["Lorem ipsum dolor sit amet, consectetur adipiscing elit"]
     }
   ]
@@ -188,13 +186,13 @@ const workExperiences = {
       company: "Amazon",
       companylogo: require("./assets/images/amazon.png"),
       date: "May 2023 – July 2023",
-      desc: "Developed Error Categorization microservices using SPRING Framework for the Selling Partner Team.",
+      desc: "Developed Error Categorization microservices using SPRING Framework for the Selling Partner Team."
       // descBullets: [
       //   "Lorem ipsum dolor sit amet, consectetur adipiscing elit",
       //   "Lorem ipsum dolor sit amet, consectetur adipiscing elit"
       // ]
     },
-    { 
+    {
       role: "Software Engineer Intern",
       company: "FAU",
       companylogo: require("./assets/images/owlhead-logo.png"),
@@ -278,7 +276,7 @@ const achievementSection = {
         {
           name: "Certification",
           url: "https://drive.google.com/file/d/1OHJSTW8SAWi6UVveirRgig7LtIT8Gi8i/view?usp=sharing"
-        },
+        }
         // {
         //   name: "Award Letter",
         //   url: "https://drive.google.com/file/d/0B7kazrtMwm5dekxBTW5hQkg2WXUyR3QzQmR0VERiLXlGRVdF/view?usp=sharing"
