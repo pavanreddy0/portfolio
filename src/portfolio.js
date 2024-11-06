@@ -35,7 +35,7 @@ const greeting = {
 const socialMediaLinks = {
   github: "https://github.com/pavanreddy0",
   linkedin: "https://www.linkedin.com/in/pavanreddy0",
-  gmail: "ppanuganti2022@fau.edu",
+  gmail: "panugantipavan01@gmail.com",
   // gitlab: "https://gitlab.com/saadpasta",
   // facebook: "https://www.facebook.com/saad.pasta7",
   // medium: "https://medium.com/@saadpasta",
@@ -170,15 +170,26 @@ const techStack = {
 const workExperiences = {
   display: true, //Set it to true to show workExperiences Section
   experience: [
+    // {
+    //   role: "Graduate Teaching Assistant for Cloud Computing Course",
+    //   company: "FAU",
+    //   companylogo: require("./assets/images/owlhead-logo.png"),
+    //   date: "Aug 2023 – May 2024",
+    //   desc: "",
+    //   descBullets: [
+    //     "Took care of grading Assignments and Projects",
+    //     "Guided students in colloborating among themselves in developing their projects"
+    //   ]
+    // },
     {
-      role: "Graduate Teaching Assistant for Cloud Computing Course",
-      company: "FAU",
+      role: "Full Stack Developer",
+      company: "I-Giants Inc ",
       companylogo: require("./assets/images/owlhead-logo.png"),
-      date: "Aug 2023 – May 2024",
+      date: "Sep 2023 – Present",
       desc: "",
       descBullets: [
-        "Took care of grading Assignments and Projects",
-        "Guided students in colloborating among themselves in developing their projects"
+        "Designed web applications using Java and J2EE technologies"
+        // "Guided students in colloborating among themselves in developing their projects"
       ]
     },
     {
@@ -210,7 +221,7 @@ const workExperiences = {
       role: "Software Engineer",
       company: "Nouveau Labs",
       companylogo: require("./assets/images/nouveau-labs.png"),
-      date: "Sep 2019 – Feb 2022",
+      date: "Sep 2020 – Feb 2022",
       desc: "Designed, developed and Implemented payment Gateway for the the DolphinVC application"
     }
   ]
@@ -387,8 +398,8 @@ const contactInfo = {
   title: emoji("Contact Me ☎️"),
   subtitle:
     "Discuss a project or just want to say hi? My Inbox is open for all.",
-  number: "+15619621239",
-  email_address: "ppanuganti2022@fau.edu"
+  number: "+14696659939",
+  email_address: "panugantipavan01@gmail.com"
 };
 
 // Twitter Section
