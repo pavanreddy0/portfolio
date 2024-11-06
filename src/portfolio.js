@@ -184,7 +184,7 @@ const workExperiences = {
     {
       role: "Full Stack Developer",
       company: "I-Giants Inc ",
-      companylogo: require("./assets/images/owlhead-logo.png"),
+      // companylogo: require("./assets/images/owlhead-logo.png"),
       date: "Sep 2023 – Present",
       desc: "",
       descBullets: [
