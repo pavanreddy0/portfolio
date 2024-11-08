@@ -181,17 +181,17 @@ const workExperiences = {
     //     "Guided students in colloborating among themselves in developing their projects"
     //   ]
     // },
-    {
-      role: "Full Stack Developer",
-      company: "I-Giants Inc ",
-      // companylogo: require("./assets/images/owlhead-logo.png"),
-      date: "Sep 2023 – Present",
-      desc: "",
-      descBullets: [
-        "Designed web applications using Java and J2EE technologies"
-        // "Guided students in colloborating among themselves in developing their projects"
-      ]
-    },
+    // {
+    //   role: "Full Stack Developer",
+    //   company: "I-Giants Inc ",
+    //   // companylogo: require("./assets/images/owlhead-logo.png"),
+    //   date: "Sep 2023 – Present",
+    //   desc: "",
+    //   descBullets: [
+    //     "Designed web applications using Java and J2EE technologies"
+    //     // "Guided students in colloborating among themselves in developing their projects"
+    //   ]
+    // },
     {
       role: "Software Development Engineer Intern",
       company: "Amazon",
